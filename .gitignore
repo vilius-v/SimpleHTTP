@@ -1,0 +1,32 @@
+# Object files
+*.o
+*.ko
+
+# Libraries
+*.lib
+*.a
+ 
+# Zip files 
+*.tar.gz 
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Client-Server executables
+client
+server
+ptest
+
+# Zip files
+*.tar.gz
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Generated Files
+*.html
