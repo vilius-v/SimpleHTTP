@@ -1,4 +1,4 @@
-# CS118 - Lab 1
+# SimpleHTTP
 
 Our implementation of a multithreaded web server, where the client sends HTTP
 GET requests to an arbitrary server, and receives an ASCII only HTTP response.
