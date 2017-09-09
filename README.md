@@ -8,7 +8,7 @@ responds with an HTTP response, with the file, if it exists in the working
 directory.
 
 
-###INSTALLATION:
+### INSTALLATION:
 
 Assuming that the user is using Ubuntu 14.04, the following commands install
 the client and server files:
@@ -18,7 +18,7 @@ the client and server files:
 4. To uninstall, run make clean
 
 
-###USAGE:
+### USAGE:
 
 `./web−client <URL1> <URL2> <URL3> ...`
 
